@@ -1,0 +1,1 @@
+This script will parse the bluetooth artifacts of an iPhone extraction. The collected information may include paired devices, detected devices, last disconnect time and manufacturer, among other things.
